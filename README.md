@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there I'm Ohad 👋
 
-Readme File
+Thanks for visiting
+
+
 
 <!--
 **ohad-G/ohad-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
