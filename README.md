@@ -2,7 +2,9 @@
 
 Thanks for visiting
 
-
+As a developer, my job is to program applications for clients mostly using the Django framework for the Python programming language.
+In this role, I selected the resources for each project, oversee development, troubleshoot problems, and test existing code.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <!--
 **ohad-G/ohad-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
