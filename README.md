@@ -4,6 +4,9 @@ Thanks for visiting
 
 As a developer, my job is to program applications for clients mostly using the Django framework for the Python programming language.
 In this role, I selected the resources for each project, oversee development, troubleshoot problems, and test existing code.
+
+
+
 ![Image of PYTHON](https://fossbytes.com/wp-content/uploads/2019/06/Python_pyoxidiser.jpg)
 
 <!--
